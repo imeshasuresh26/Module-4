@@ -21,7 +21,9 @@ merge(a,b)
 
 ## Output
 
-![Uploading image.png…]()
+
+<img width="1258" height="127" alt="image" src="https://github.com/user-attachments/assets/7044fed9-95ff-46e1-b872-7011354b2491" />
+
 
 
 ## Result
